@@ -1,0 +1,7 @@
+In this assignment I compared BST and Hash Table by using java.
+I tested 3 operations insert , search , delete.
+BST stores numbers in tree. Smaller number go to the left and larger numbers go to the right.
+Hash table uses hash function to find numbers.
+The average time complexity of BST is O(logn) , worst case is O(n). Hash table time complexity is O(1), worst case is O(n)
+The results showed that Hash Table was faster in search and delete operations for 10000. BST was faster in insert operation.
+So Hash table is better for searching , BST is better for keeping.
